@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[105.2579759,11.2991834],[105.2609356,11.2989985],[105.2615732,11.2990985]],[[105.261543,11.2982402],[105.2581098,11.2982779]],[[105.8163556,11.1508296],[105.816856,11.1489933]]]},"properties":{"highway":"motorway","layer":"motorwayBeforeLayer"}}
+]}
